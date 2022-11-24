@@ -1,7 +1,7 @@
 //tp5 minijuego. "Misión 39"
 //Comisión Nº.3 (David Bedoian)
 //Alumna: Valeria Carolina Parra 
-//Link al video de YouTube: 
+//Link al video de YouTube:  https://youtu.be/lsBmiHIUMsk
 
 //Cómo se juega: >Flecha derecha: rotación a la derecha 
 //>Flecha izquierda: rotación a la izquierda
